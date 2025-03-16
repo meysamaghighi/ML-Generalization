@@ -1,9 +1,9 @@
 # Generalization Techniques in Machine Learning 🎯📊✨
 
-## Overview 🎯📊✨
+## Overview 
 Generalization in Machine Learning ensures that models perform well on unseen data. Below are key techniques to improve generalization, their applicability, and common use cases.
 
-## Generalization Methods 🎯📊✨
+## Generalization Methods 
 
 | **Method**         | **Description** | **Applicable Models (NN or not)** | **Use Cases** | **PyTorch Syntax** | **TensorFlow Syntax** |
 |--------------------|---------------|----------------------------------|--------------|-----------------|-----------------|
